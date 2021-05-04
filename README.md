@@ -1,1 +1,1 @@
-# My-Future-Notes-CTF-
+# My-Future-Notes-CTFs
